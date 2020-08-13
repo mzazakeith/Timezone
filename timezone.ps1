@@ -1,0 +1,1 @@
+Set-TimeZone -Id "Singapore Standard Time" -PassThru 
